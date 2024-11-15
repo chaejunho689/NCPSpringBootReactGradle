@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>Spring Boot + React + NCP </h1>
       <h3> 카운트 : 5 </h3> 
+      <img src="../src/image/1.jpg" alt="옴팡이" />
     </div>
   );
 }
