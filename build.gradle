@@ -73,6 +73,7 @@ processResources {
     dependsOn copyViteBuildFiles
 }
 
+
 /*
 / React (Vite) 프로젝트 디렉터리 설정
 def reactAppDir = "$projectDir/src/main/frontvite"
